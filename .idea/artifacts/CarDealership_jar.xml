@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarDealership:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarDealership_jar</output-path>
+    <root id="archive" name="CarDealership.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CarDealership" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/absolutelayout/AbsoluteLayout.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../resources/sliding-layout-master/api/libs/tween-engine-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joda-time-2.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

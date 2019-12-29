@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CarDealership:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bb1d39b-e452-470d-8741-2261cdbbeef4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6ngWh8opnQvMY0MOvFr3vVkDV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="View" />
+      <recent name="cardealership" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MainComponents.LoginPanels" />
+      <recent name="HelperClasses" />
+      <recent name="Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_projects\CarDealership\src\cardealership" />
+      <recent name="D:\idea_projects\CarDealership\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cardealership" />
+      <recent name="MainComponents" />
+      <recent name="HelperComponents" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_projects\CarDealership\src\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cardealership.MainFrame" />
+      <module name="CarDealership" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteSampleData (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelperClasses.WriteSampleData" />
+      <module name="CarDealership" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteSampleData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Model.WriteSampleData" />
+      <module name="CarDealership" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cardealership.mainTest" />
+      <module name="CarDealership" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.WriteSampleData (1)" />
+        <item itemvalue="Application.mainTest" />
+        <item itemvalue="Application.WriteSampleData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bb1d39b-e452-470d-8741-2261cdbbeef4" name="Default Changelist" comment="" />
+      <created>1576354226877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576354226877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1577119578432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577119578432" />
+    <state x="634" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577013650782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1577013650782" />
+    <state x="540" y="282" width="456" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576855809591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="282" width="456" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1576855809591" />
+    <state x="436" y="99" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577116248032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="99" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577116248032" />
+    <state x="630" y="92" key="FileChooserDialogImpl" timestamp="1577013656162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="630" y="92" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577013656162" />
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom" timestamp="1577632583258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
+    <state width="1537" height="194" key="GridCell.Tab.0.center" timestamp="1577632583258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
+    <state width="1537" height="194" key="GridCell.Tab.0.left" timestamp="1577632583258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right" timestamp="1577632583258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
+    <state x="409" y="44" key="NewModule_or_Project.wizard" timestamp="1576927405053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="44" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1576927405053" />
+    <state x="397" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1577014066737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="397" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577014066737" />
+    <state x="511" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1577119978804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1577119978804" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1576935640367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1576935640367" />
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1577121017576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577121017576" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Model/Vehicle.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
