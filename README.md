@@ -1,5 +1,5 @@
 # CarDealership
- A mess of a semester project that should not exist  (for my OOP course)
+ A mess of a semester project (for my OOP course)
  <H5> TOTALLY INSANE FEATURES INCLUDE: 
  <UL>
     <li>Search vehicles</li>
@@ -37,3 +37,4 @@
         Delete dealership.dat to reset all data
     </li>
 </ul>
+
