@@ -6,7 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bb1d39b-e452-470d-8741-2261cdbbeef4" name="Default Changelist" comment="" />
+    <list default="true" id="8bb1d39b-e452-470d-8741-2261cdbbeef4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealership.dat" beforeDir="false" afterPath="$PROJECT_DIR$/dealership.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CarDealership/HelperClasses/WriteSampleData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarDealership/HelperClasses/WriteSampleData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CarDealership/META-INF/CarDealership.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelperClasses/WriteSampleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelperClasses/WriteSampleData.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,14 +29,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V6ngWh8opnQvMY0MOvFr3vVkDV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -97,18 +112,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
@@ -125,7 +128,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="91" key="#Plugins" timestamp="1581771821298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="91" key="#Plugins/0.0.1600.860@0.0.1600.860" timestamp="1581771821298" />
     <state x="574" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1577119578432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -146,22 +169,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="630" y="92" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577013656162" />
-    <state width="1537" height="194" key="GridCell.Tab.0.bottom" timestamp="1577632583258">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1601" height="245" key="GridCell.Tab.0.bottom" timestamp="1581772872318">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
-    <state width="1537" height="194" key="GridCell.Tab.0.center" timestamp="1577632583258">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579007305035" />
+    <state width="1601" height="245" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581772872318" />
+    <state width="1601" height="245" key="GridCell.Tab.0.center" timestamp="1581772872317">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
-    <state width="1537" height="194" key="GridCell.Tab.0.left" timestamp="1577632583258">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579007305035" />
+    <state width="1601" height="245" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581772872317" />
+    <state width="1601" height="245" key="GridCell.Tab.0.left" timestamp="1581772872317">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
-    <state width="1537" height="194" key="GridCell.Tab.0.right" timestamp="1577632583258">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579007305034" />
+    <state width="1601" height="245" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581772872317" />
+    <state width="1601" height="245" key="GridCell.Tab.0.right" timestamp="1581772872317">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577632583258" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579007305035" />
+    <state width="1601" height="245" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581772872317" />
     <state x="409" y="44" key="NewModule_or_Project.wizard" timestamp="1576927405053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -178,10 +205,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1576935640367" />
-    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1577121017576">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="448" y="151" width="875" height="708" key="search.everywhere.popup" timestamp="1581771761916">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577121017576" />
+    <state x="448" y="151" width="875" height="708" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1581771761916" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

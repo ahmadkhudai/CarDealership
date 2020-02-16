@@ -149,13 +149,6 @@ public class WriteSampleData {
 // String color, String type, boolean isAuto, int price, boolean isNew) {
         }
 
-        dealership.createCustomer("Sample", "", "@","", 2000000);
-        dealership.createCustomer("Ahmad Tufail", "fa18-bcs-005", "ahmad@outlook.com","", 2000000);
-        dealership.createCustomer("Ahmad Tufail", "fa18bcs001", "ahmad@outlook.com","", 2000000);
-        dealership.createCustomer("Ahmad Tufail", "fa18bcs002", "ahmad@outlook.com","", 2000000);
-        dealership.createCustomer("Ahmad Tufail", "fa18bcs003", "ahmad@outlook.com","", 2000000);
-        dealership.createCustomer("Ahmad Tufail", "fa18bcs005", "ahmad@outlook.com","", 2000000);
-//        dealership.createCustomer("Ahmad Tufail", "a", "ahmad@outlook.com","", 2000000);
 
 
         dealership.displayAll();
