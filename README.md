@@ -1,11 +1,6 @@
 # CarDealership
- A mess of a semester project (for my OOP course)
- <H5> TOTALLY INSANE FEATURES INCLUDE: 
- <UL>
-    <li>Search vehicles</li>
-    <li>Buy Vehicles
-    </li>
- </UL>
+
+A car dealership system in swing java. 
 
 
 <h2>How to run:</h2>
@@ -15,7 +10,6 @@
  <li>Admin Username and password: ahmad 
  <ul>
  <li>
- [yea, I know... I concentrated way too much on security]
  </li>
  </ul>
 </ul>
